@@ -1,0 +1,2 @@
+D:\Programming Projects\Personal Mini Projects\Prologue Hooking\Debug\Hooking DLL.dll
+D:\Programming Projects\Personal Mini Projects\Prologue Hooking\Debug\Hooking DLL.pdb
