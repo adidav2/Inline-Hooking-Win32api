@@ -26,9 +26,6 @@
     <ClCompile Include="pch.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="win32 hooking experiment.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="dllmain.c">
       <Filter>Source Files</Filter>
     </ClCompile>
