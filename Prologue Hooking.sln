@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hooking DLL", "Prologue Hooking.vcxproj", "{A87211E5-E5BF-4069-BA4B-5527474F516F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookingDLL", "Prologue Hooking.vcxproj", "{A87211E5-E5BF-4069-BA4B-5527474F516F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL Injector", "..\DLL Injector\DLL Injector.vcxproj", "{270CD4D4-EA74-49FD-BF9F-4BFA8AA52708}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLInjector", "..\DLL Injector\DLL Injector.vcxproj", "{270CD4D4-EA74-49FD-BF9F-4BFA8AA52708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
